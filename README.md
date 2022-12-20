@@ -11,7 +11,7 @@
 
 ------
 
-![flutter9_overview](https://i.imgur.com/hhCnsNO.gifv)
+https://user-images.githubusercontent.com/55552780/208735600-7ab7ff6b-fabf-4137-a3e3-2c495291ea4c.mp4
 
 #### Контрольні запитання
 1. Стан віджету - це певні дані, які готові змінити своє значення/властивості в будь-який час при роботі додатку.
